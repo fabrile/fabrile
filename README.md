@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabrile
 - 👀 I’m interested in digitalart, programming and procedural art
-- 🌱 I’m currently learning processing and java.
+- 🌱 I’m currently learning processing and javasript
 - 💞️ I’m looking to collaborate on digital art projects.
 - 📫 How to reach me @federicoabrile on Instagram
 
