@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning processing and javasript
 - 💞️ I’m looking to collaborate on digital art projects.
 - 📫 How to reach me @federicoabrile on Instagram or Twittet, 
-https://linktr.ee/federicoabrile
+-   https://linktr.ee/federicoabrile
 
 <!---
 fabrile/fabrile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
